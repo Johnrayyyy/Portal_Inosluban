@@ -7,7 +7,7 @@ A beginner-friendly PHP starter project for a secure login and registration flow
 1. Copy this folder to `C:\xampp\htdocs\PHP_project`.
 2. Start **Apache** in the XAMPP Control Panel.
 3. Open [http://localhost/PHP_project/](http://localhost/PHP_project/) in your browser.
-4. Choose **Create an account** to test registration. The SQLite database is created automatically in `database/barangay.sqlite`.
+4. Choose **Create an account** to test registration. The postgresSQL database is created in `database/Portal_Inosluban`.
 
 The project uses the PHP version included with XAMPP. Make sure the `pdo_sqlite` extension is enabled in `php.ini`.
 
